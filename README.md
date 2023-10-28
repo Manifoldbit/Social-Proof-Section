@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Manifoldbit/Social-Proof-Section.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://social-proof-section-xhyu.vercel.app/)
 
 ## My process
 
